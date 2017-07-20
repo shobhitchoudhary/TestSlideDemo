@@ -1,0 +1,561 @@
+<resources>
+    <string name="app_name">Sellr</string>
+    <string name="shopr">Shopr</string>
+<!--
+    <string name="fancy">Fancy</string>
+-->
+
+    <!--Navigation drawer Item-->
+    <string name="Home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="Shop">Shop</string>
+    <string name="Cart">Cart</string>
+    <string name="Picks">Picks</string>
+    <string name="Activity">Activity</string>
+    <string name="Inbox">Inbox</string>
+    <string name="others">Others</string>
+    <string name="InviteFriends">Invite Friends</string>
+    <string name="FindsFriends">Find Friends</string>
+    <string name="setting">Account Settings</string>
+    <string name="invite">Invite Friends</string>
+    <string name="Find">Find Friends</string>
+
+    <!--Navigation drawer Header-->
+    <string name="view_profile">View profile</string>
+
+    <!--My profile frag-->
+    <string name="settings">Settings</string>
+    <string name="userName">User Name</string>
+    <string name="email">mishkin11</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="Items">Items</string>
+    <string name="Lists">Lists</string>
+    <string name="Stores">Stores</string>
+    <string name="Added">Added</string>
+    <string name="Favitems">Fav.Items</string>
+    <string name="FavStores">Fav.Stores</string>
+    <string name="NoInternetAccess">No Internet-Access</string>
+    <string name="likes">Likes</string>
+    <string name="wish_list">Wish List</string>
+    <string name="stores">Stores</string>
+    <string name="tab">Tab</string>
+    <string name="sellr_things_to_save">Sellr things to save them to your profile</string>
+    <string name="collect_things_you">Collect things you like into lists</string>
+    <string name="you_have_not_added_anythings">You have not added anything</string>
+    <string name="no_recent_activity">No recent Activity</string>
+
+    <!--Sort and filter-->
+    <string name="sort">Sort</string>
+    <string name="filter">Filter</string>
+    <string name="pouplar">Popular</string>
+    <string name="newest">Newest</string>
+    <string name="price_low_to_high">Price: Low to High</string>
+    <string name="price_high_to_low">Price: High to Low</string>
+    <string name="keyword">Keyword</string>
+    <string name="any_price">Any Price</string>
+    <string name="anycolor">Any Color</string>
+    <string name="clear">CLEAR</string>
+    <string name="apply">APPLY</string>
+
+    <!--Shop details activity-->
+    <string name="shopName">Shop Name</string>
+
+    <!--Home Page-->
+    <string name="Sellr">Sellr</string>
+
+    <!-- Home search activity -->
+    <string name="search_product">Search Items</string>
+    <string name="Guest_user">Guest User</string>
+    <string name="loginOrSignUp">Login/Sign up</string>
+    <string name="product">Products</string>
+
+    <!--home_page_frag-->
+    <string name="Featured">Featured</string>
+    <string name="For_You">For You</string>
+    <string name="productImage">Product Image</string>
+    <string name="like">Like</string>
+    <string name="buy">Buy</string>
+    <string name="no_product_found">No product found</string>
+
+    <!--Invite-->
+    <string name="invite_on">Invite Friends</string>
+    <string name="text_a_link">Text a link</string>
+    <string name="google_plus">Google+</string>
+    <string name="Contacts">Contacts</string>
+    <string name="Invite">Invite</string>
+    <string name="search_contacts">Search contacts</string>
+
+    <!--Find friends-->
+    <string name="similar_to_you">Similar to you</string>
+    <string name="could_not_find_friends">Sorry couln\'t find and friend</string>
+    <string name="see_more">See more</string>
+    <string name="search">Search</string>
+    <string name="no_match_found">No match found</string>
+
+    <!--Product details-->
+    <string name="number">215</string>
+    <string name="description">Description</string>
+    <string name="item_description">Head out in style wearing these navy blue coloured moccasins from the house of shoes.
+        The synthetic upper and lining make these moccasins for men high on quality. The PU (polyurethane)
+        sole will keep your feet comfortable and relaxed all day long</string>
+    <string name="return_policy">Return Policy</string>
+    <string name="added_by">Added by</string>
+    <string name="related_items">Related Items</string>
+    <string name="color">Color</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="Description">DESCRIPTION</string>
+    <string name="BoughtBy">Bought By</string>
+    <string name="SavedBy">Saved By</string>
+    <string name="StoreDetails">STORE DETAILS</string>
+    <string name="ShopName">ShopName</string>
+    <string name="ShopRatings">Ratings</string>
+    <string name="VisitStore">Visit Store</string>
+    <string name="comments">Comments</string>
+    <string name="sellr_says">Sellr says</string>
+    <string name="SelectSize">Select Size</string>
+    <string name="SelectColor">Select Color</string>
+    <string name="people">People</string>
+    <string name="added">Added</string>
+    <string name="removed">Removed</string>
+    <string name="AddedToTheCart">Added to the cart</string>
+    <string name="addToList">Add to List</string>
+    <string name="share_item">Share Item</string>
+
+    <!--Shop Frag-->
+    <string name="category">CATEGORIES</string>
+    <string name="New">NEW</string>
+    <string name="popular">Popular</string>
+    <string name="on_sale">ON SALE</string>
+    <string name="collections">COLLECTIONS</string>
+    <string name="gift_card">GIFT CARD</string>
+
+
+    <!--shopping cart-->
+    <string name="ShoppingCart">Shopping Cart</string>
+    <string name="orderFrom">Order from</string>
+    <string name="brand_name">Fossil Watches</string>
+    <string name="quantity">Quantity</string>
+    <string name="remove">Remove</string>
+    <string name="edit">Edit</string>
+    <string name="amount">$0.00</string>
+    <string name="addCouponCode">Add coupon code</string>
+    <string name="makeAsGift">Make as gift</string>
+    <string name="itemTotal">Item Total</string>
+    <string name="shipping">Shipping</string>
+    <string name="tax">Tax</string>
+    <string name="orderTotal">Order total</string>
+    <string name="AddNoteToSeller">Add note to seller</string>
+    <string name="checkOut">Check Out</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="Approximately">APPROXIMATELY  ₹6 INR</string>
+    <string name="item_name">Item name</string>
+    <string name="save">SAVE</string>
+    <string name="coupon_code">Coupon code</string>
+    <string name="enterCouponCode">Enter a coupon code</string>
+    <string name="gift_message">Gift message</string>
+    <string name="add_gift_message">Add gift message</string>
+    <string name="proceed">PROCEED</string>
+    <string name="cart">CART</string>
+    <string name="address">Address</string>
+    <string name="review">Review</string>
+    <string name="NoItemsInCart">No items in cart</string>
+    <string name="your_cart_is_empty">Your Shopping Cart is Empty</string>
+    <string name="options">OPTIONS</string>
+    <string name="make_as_gift">Mark as Gift</string>
+    <string name="price_details">PRICE DETAILS</string>
+    <string name="zero_amount">$0.00</string>
+    <string name="Quantity">Quantity : </string>
+    <string name="price">Price</string>
+    <string name="payment_summary">PAYMENT SUMMARY</string>
+    <string name="receipent">Receipent</string>
+    <string name="sender">Sender</string>
+
+    <!--Review -->
+    <string name="proceed_to_payment">PROCEED TO PAYMENT</string>
+    <string name="order_summary">ORDER SUMMARY</string>
+    <string name="pls_select_promo_code">Please select any promocode</string>
+    <string name="you_saved">You just saved</string>
+    <string name="on_this_product">on this product</string>
+    <string name="shipping_charge">Shipping charge</string>
+    <string name="avail_offer">Avail Offer</string>
+
+    <!--Gifting activity-->
+    <string name="set_msg_each_item">Set message for each item</string>
+    <string name="recipient_name">Recipient Name</string>
+    <string name="Message">Message</string>
+    <string name="sender_name">Sender Name</string>
+    <string name="to">To:</string>
+    <string name="from">From:</string>
+    <string name="Continue">CONTINUE</string>
+    <string name="click_to_set_item_msg">Click here to set message for this product</string>
+    <string name="pls_type_recipent">Enter recipent name</string>
+    <string name="pls_type_message">Please enter message</string>
+    <string name="pls_type_sender">Enter sender name</string>
+    <string name="shipping_address">Shipping Address</string>
+    <string name="date">Date</string>
+    <string name="Time">Time</string>
+    <string name="receipent_mob_no">Recipient Mobile Number </string>
+    <string name="pls_enter_mob_no">Please enter mobile number</string>
+    <string name="pls_enter_date">Please enter date</string>
+    <string name="pls_enter_time">Please enter time</string>
+
+    <!--Cart Billing-->
+    <string name="billing">Billing</string>
+    <string name="order_type">Order Type</string>
+    <string name="billing_address">BILLING ADDRESS:</string>
+    <string name="click_to_choose_an_address">Click here to choose an address</string>
+    <string name="set_as_shipping_address">Set as Shipping address</string>
+    <string name="custom">Custom($ 0.00)</string>
+    <string name="express">Express($ 19.00)</string>
+    <string name="review_your_order">REVIEW YOUR ORDER</string>
+    <string name="select_order_type">Please select order type Pickup/Delivery</string>
+    <string name="Delivery">Delivery</string>
+    <string name="Pickup">Pickup</string>
+    <string name="no_shiping_address">No shipping address</string>
+
+    <!--Activity frag-->
+    <string name="global">GLOBAL</string>
+    <string name="friends">FRIENDS</string>
+    <string name="fancyd">Liked</string>
+    <string name="followed">Followed</string>
+    <string name="startedFollowing">Started following</string>
+    <string name="holographic_chicago">Holographic Chicago</string>
+    <string name="bucknBear_knives">BucknBear Knives</string>
+    <string name="wizpak">wizpak</string>
+    <string name="one_month_ago">1 month ago</string>
+    <string name="two_month_ago">2 months ago</string>
+    <string name="three_month_ago">3 months ago</string>
+    <string name="six_month_ago">6 months ago</string>
+    <string name="activity">Activity</string>
+    <string name="action_type">action type</string>
+    <string name="activity_type">activity type</string>
+
+    <!--Inbox frag-->
+    <string name="Notifications">Notifications</string>
+    <string name="FancyEveryday">Fancy Everyday</string>
+
+    <!--Finds Friends fragment-->
+    <string name="search_users">Search Users</string>
+    <string name="who_to_follow">Who to follow</string>
+    <string name="fancyd_by">Fancy\'d by</string>
+
+    <!--Account Settings-->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="preferences">Preferences</string>
+    <string name="notifications">Notifications</string>
+    <string name="linkedAccounts">Linked Accounts</string>
+    <string name="purchases">Purchases</string>
+    <string name="payment">Payment</string>
+    <string name="credits">Credits</string>
+    <string name="referrals">Referrals</string>
+    <string name="gift_cards">Gift Cards</string>
+    <string name="about_fancy">About Sellr</string>
+    <string name="temrms_of_services">Terms Of Service</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="help">Help</string>
+    <string name="app_version">App Version</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="login_signUp">Login/Sign Up</string>
+    <string name="Privacy_Policy_url">http://159.203.143.251/apps/Shoppen/Privacy_Policy.html</string>
+    <string name="intagram_url">https://www.instagram.com/shopr_app</string>
+    <string name="termsConditionUrl">http://159.203.143.251/apps/Shoppen/terms&amp;conditions.html</string>
+    <string name="appscrip_url">http://www.appscrip.com/</string>
+    <string name="facebook_url">https://www.facebook.com/shopprapp/?ref=hl</string>
+    <string name="instagram_url">https://www.instagram.com/shopr_app</string>
+    <string name="Shopr_App_url">https://twitter.com/Shopr_App</string>
+
+    <!--add shipping Address-->
+    <string name="saved_address">Saved Addresses</string>
+    <string name="addNewAddress">Add a New Address</string>
+    <string name="shipping_name">Shipping Nickname</string>
+    <string name="address1">Address Line 1</string>
+    <string name="address2">Address Line 2</string>
+    <string name="CountryName">Country Name</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="telephone_number">Telephone Number</string>
+    <string name="use_default_add">Use as my default address</string>
+    <string name="enter_name">Please enter name</string>
+    <string name="enter_shipping_name">Please enter shipping name</string>
+    <string name="enter_address">Please enter your address</string>
+    <string name="enter_city">Please enter your city</string>
+    <string name="enter_zip_code">Please enter your zip code</string>
+    <string name="enter_telephone">Please enter your telephone number</string>
+    <string name="phone">Ph: </string>
+    <string name="add_shipping_address">ADD SHIPPING ADDRESS</string>
+
+    <!--Select Address-->
+    <string name="select_address">Select Address</string>
+    <string name="pls_select_billing_add">Please select billing address</string>
+    <string name="pls_select_shipping_add">Please select any shipping address</string>
+    <string name="pls_selet_addr">Please select address</string>
+    <string name="gifting">Gifting</string>
+
+    <!--Customer Support-->
+    <string name="call">CALL</string>
+    <string name="customer_email">EMAIL</string>
+    <string name="customer_support">Customer Support</string>
+
+    <!--Pereference-->
+    <string name="interests">Interests</string>
+    <string name="skip">Skip</string>
+    <string name="done">Done</string>
+    <string name="preference">Preferences</string>
+    <string name="SubCategoriesName">Sub Categories Name</string>
+    <string name="name">Name</string>
+    <string name="follow">Follow</string>
+    <string name="addPreferences">Add Preferences</string>
+    <string name="selectPreference">Please select your interest to update</string>
+    <string name="whatRYouInterestedIn">What are you interested in?</string>
+    <string name="pickWhateverCatches">Pick whatever catches your eye&#8230;</string>
+    <string name="youCanAlways">you can always fine tune things later</string>
+    <string name="no_preferences">Oops! you haven’t selected anything from the preference list. To add your preferences please click on the Add Preferences button.</string>
+    <string name="pls_enter_current_pass">Please enter current password</string>
+    <string name="pls_enter_new_pass">Please enter new password</string>
+    <string name="pls_enter_confirm_pass">Please enter new password</string>
+    <string name="password_do_not_match">Passwords do not match</string>
+
+    <!--Edit profile activity-->
+    <string name="editProfile">Edit Profile</string>
+    <string name="updateProfilePic">Update profile picture</string>
+    <string name="updateCoverPic">Update cover photo</string>
+    <string name="profile">Profile</string>
+    <string name="full_name">Full Name</string>
+    <string name="website">Website</string>
+    <string name="location">Location</string>
+    <string name="twitter">Twitter</string>
+    <string name="birth_day">Birthday</string>
+    <string name="gender">Gender</string>
+    <string name="bio">Bio</string>
+    <string name="change_password">Change Password</string>
+    <string name="change_email">Change Email</string>
+    <string name="select_birthday">Select birthday</string>
+    <string name="select_gender">Select gender</string>
+    <string name="emailid">Email :</string>
+    <string name="current_password">Current Password</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="change">Change</string>
+    <string name="uploading">Uploading&#8230;</string>
+
+    <!--Notification-->
+    <string name="no_notification">No recent Notification</string>
+    <string name="notification">Notification</string>
+    <string name="time">Time</string>
+
+    <!--Global frag-->
+    <string name="global_title">Raaskallen Fancyd Winston</string>
+    <string name="global_time">United States - 23 minutes ago</string>
+
+    <!--Store activity -->
+    <string name="store_name">Store Name</string>
+    <string name="store_distance">Distance</string>
+    <string name="product_list">Product List</string>
+    <string name="store_info">Store Info</string>
+    <string name="Follow_store">Follow Store</string>
+
+    <!--ShopInfoActivity-->
+    <string name="storeInfo">Store Info</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="Location">Location</string>
+    <string name="Email">Email</string>
+    <string name="About">About</string>
+    <string name="Phone">PHONE</string>
+    <string name="hours">Hours</string>
+    <string name="web">web</string>
+
+    <!--Facebook Login-->
+    <string name="LoginWithFb">facebook</string>
+    <string name="Loginfailed">Login failed</string>
+
+    <!--Login pop up window-->
+    <string name="EmailAddress">Email Address</string>
+    <string name="loginPassword">Password</string>
+    <string name="login_to_ac">LOGIN TO YOUR ACCOUNT</string>
+    <string name="Login">Login</string>
+    <string name="SignUpWithEmail">Sign up with email</string>
+    <string name="new_user"><u>new user?</u></string>
+    <string name="sign_in">Sign In</string>
+    <string name="email_id">Please enter Email-Id</string>
+    <string name="valid_email_id">Please enter valid Email-Id</string>
+    <string name="enterPassword">Please enter password</string>
+    <string name="you_have_logged_in">You have not logged in</string>
+    <string name="orLoginWith">or login with</string>
+    <string name="select_image">SELECT IMAGE</string>
+    <string name="camera">Camera</string>
+    <string name="take_beautiful_pic">Take a new picture</string>
+    <string name="choose_existing_img">Choose an existing photo</string>
+    <string name="gallery">Gallery</string>
+    <string name="browse">Browse</string>
+
+    <!--sign up-->
+    <string name="signUp">Sign Up</string>
+    <string name="signUpPassword">Password*</string>
+    <string name="first_name">Please enter first name</string>
+    <string name="firstName">First Name *</string>
+    <string name="lastName">Last Name</string>
+    <string name="emailId">Email ID *</string>
+    <string name="DateofBirth">Date of Birth</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="AllowAppToUse">ALLOW APP TO USE ENTERED DATA</string>
+    <string name="termsConditions">Please accept terms and conditions</string>
+    <string name="PhoneNumber">Phone Number</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="doesntSupportCapturingImages">Oops - your device does not support capturing images!</string>
+
+    <!--Forgot password -->
+    <string name="ForgotPassword">Forgot Password?</string>
+    <string name="forgotPasswordHeader">FORGOT YOUR PASSWORD?</string>
+    <string name="forgotPasswordTitle">Enter your email to reset your</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept">Retrieve</string>
+
+    <!--order-->
+    <string name="MyOrders">MY ORDERS</string>
+    <string name="days">Days</string>
+    <string name="order_not_placed">You haven\'t placed any orders yet</string>
+    <string name="default_item_name"> Platinum Studio Self Design Tuxedo Style Casual</string>
+    <string name="order">My Orders</string>
+    <string name="default_dt">OCT 6, 2015</string>
+    <string name="yourBilledAmount">Your Billed Amount</string>
+    <string name="MasterOrderId">For3030000001156</string>
+    <string name="OrderId">(For3030000001156)</string>
+    <string name="Amount">$0.00</string>
+    <string name="order_status">Order status</string>
+    <string name="newOrder">New Order</string>
+    <string name="OrderIsOnTheWay">Your Order is on the Way</string>
+    <string name="OrderIsDelivered">Your Order is Delivered</string>
+    <string name="Ordercancelled">Order cancelled on </string>
+    <string name="To_view_orders">To view orders, </string>
+    <string name="ordered_on">Ordered on</string>
+    <string name="items">Items</string>
+    <string name="grand_total">Grand Total</string>
+
+    <!--Order Details-->
+    <string name="express_delivery">Express Delivery</string>
+    <string name="orderId">ORDER ID : </string>
+    <string name="item_details">ITEM DETAILS</string>
+    <string name="sold_by">Sold by</string>
+    <string name="sandisk">SanDisk</string>
+    <string name="delivered">DELIVERED</string>
+    <string name="progressing">PROGRESSING</string>
+    <string name="order_id">OrderId</string>
+    <string name="itemName">Slim fit solid blue jeans</string>
+    <string name="size">Size :</string>
+    <string name="store">Store</string>
+    <string name="SubTotal">Subtotal</string>
+    <string name="discount">Discount</string>
+    <string name="total">Total:</string>
+    <string name="rate_your_store">RATE YOUR STORE</string>
+    <string name="submit">SUBMIT</string>
+    <string name="messagedate">Date</string>
+    <string name="DeliveryType">Delivery Type</string>
+
+    <!-- Apply coupon code-->
+    <string name="enter_coupon_code">Enter a coupon code</string>
+    <string name="choose_from_list">Choose from the list below</string>
+    <string name="no_offer">You do not have any offer</string>
+    <string name="dummy_Promocode">WOM954</string>
+    <string name="useAndSave">Use and Save</string>
+    <string name="offer_terms">Terms</string>
+    <string name="get_discount">discount up to </string>
+    <string name="get">get</string>
+    <string name="percentage_value">10%</string>
+    <string name="apply_offer">Apply offer</string>
+    <string name="offer_code">Offer Code</string>
+
+    <!--Payment-->
+    <string name="product_details">Product Details:</string>
+    <string name="card">Card:</string>
+    <string name="choose">CHOOSE CARD</string>
+    <string name="amount_pay">AMOUNT PAYABLE</string>
+    <string name="pay_now">PAY NOW</string>
+    <string name="change_card">Change Card</string>
+
+    <!--select cards-->
+    <string name="select_card">Select Card</string>
+    <string name="pls_select_card">Please select card</string>
+    <string name="saved_cards">Saved Cards</string>
+    <string name="star">**** **** ****</string>
+
+    <!--Add Credit card-->
+    <string name="add_card">Add Card</string>
+    <string name="card_number">Card number</string>
+    <string name="cvv">CVV</string>
+    <string name="expire">Expires</string>
+    <string name="card_holder">CARD HOLDER</string>
+    <string name="name_on_card">Name on card:</string>
+    <string name="card_code">Card code:</string>
+    <string name="expiry_date_format">MM/YY</string>
+    <string name="card_code_format">CVC</string>
+    <string name="card_no">0123&#8211;4567&#8211;8901&#8211;3456</string>
+    <string name="add_new_card">Add New Credit Card</string>
+    <string name="enter_card_no">Please enter card number</string>
+    <string name="enter_expiry_month">Please enter expiry month</string>
+    <string name="enter_expiry_year">Please enter expiry year</string>
+    <string name="enter_card_code">Please enter card code</string>
+    <string name="no_card_saved">No credit card saved</string>
+    <string name="payment_details">PAYMENT DETAILS</string>
+
+    <!--Sweet alert dialog text-->
+    <string name="dialog_default_title">Here\'s a message!</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_ok">OK</string>
+
+    <!--Share-->
+    <string name="no_twitter">Twitter have not been installed.</string>
+    <string name="no_whatsapp">Whatsapp have not been installed.</string>
+    <string name="facbook">Facebook</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="instagram">Instagram</string>
+    <string name="shareOn">Share on</string>
+
+    <!--Special symbol-->
+    <string name="dollar_symbol">$</string>
+    <string name="double_zero">.00</string>
+    <string name="cross_icon">X</string>
+    <string name="star_symbol">*</string>
+    <string name="at_the_rate">\@</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="slash_symbol">/</string>
+
+    <!--Others -->
+    <string name="dummy_email">juanaperez01@gmail.co</string>
+    <string name="simple_image_view">This is simple image view</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="message">Message</string>
+    <string name="one">1</string>
+    <string name="zero">0</string>
+    <string name="action_bar_title">Title</string>
+    <string name="TypeName">Type Name</string>
+    <string name="next">Next</string>
+    <string name="or">or</string>
+    <color name="sub_heading">#acacac</color>
+    <string name="share">Share</string>
+    <string name="colon">:</string>
+    <string name="offer">Offers</string>
+    <string name="load_more">Load more&#8230;</string>
+    <string name="loading">Loadng&#8230;</string>
+    <string name="refreshing">Refreshing&#8230;</string>
+    <string name="pull_to_refresh">pull to refresh&#8230;</string>
+    <string name="of">of</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="join_sellr">Join Sellr</string>
+
+    <!--Google api key-->
+    <!--<string name="google_api_key">AIzaSyCLaDi6bp-e5FXN96q5ORDQKxxxfk8V0lM</string>--><!--created from  mobifyisolutions11@gmail.com-->
+    <string name="facebook_app_id">129977187494943</string>
+    <string name="favourite">Favourite</string>
+    <string name="km">KM</string>
+    <string name="Distance">Distance</string>
+    <string name="dot">.</string>
+    <string name="facebook">Facebook</string>
+    <!--From jeffereyj-->
+</resources>
